@@ -5,6 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
       <h1>Prof-moevus rules!</h1>
       <p>Learn how to code with me</p>
+      <p>Web dev is a lifestyle! 🍔</p>
     </main>
   );
 }
